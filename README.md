@@ -12,12 +12,12 @@ First, run the development server:
 
 ```bash
 npm run dev
-
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-```
+
 
 ### Setup environmental variables
 ```bash
@@ -39,4 +39,4 @@ Ensure your PayPal sandbox account is set up correctly:
 3. Handling Payments with Status Updates (Webhooks)
 
 
-Ensure you are using latest version of PayPal SDK, or refer to PayPal Developer Documentation
+Ensure you are using latest version of PayPal SDK, or refer to [PayPal Developer Documentation](https://developer.paypal.com/tools/sandbox/)
